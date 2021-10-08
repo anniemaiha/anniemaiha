@@ -1,0 +1,5 @@
+- 👋 Hi guys, I’m @anniemaiha
+- 👀 I’m interested in learning and getting better at front-end development and web design.
+- 🌱 I’m currently learning basic HTML, CSS, Javascript and Reaction. In the future I'd love to learn about other programs as well that helps take me to another level of coding.
+- 💞️ I’m looking to collaborate on different and challenging projects that allows me to expand my mind and abilities.
+- 📫 You guys can reach me on here or send an email to annie.uia@outlook.com. 
